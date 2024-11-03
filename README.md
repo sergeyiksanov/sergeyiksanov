@@ -1,5 +1,5 @@
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/sergeyiksanov">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
